@@ -37,8 +37,10 @@
 
 <!-- About the project -->
 ## About the project <a name="about"></a>
+[Back to top](#top)
 <!-- Short description about this project -->
 This project is an flutter app that can monitor air quality in real time. The app can connect to the STM32 board via Bluetooth to get the data from the sensors. The app can also connect to the ESP32 board via WiFi to get the data from the sensors. The app can also connect to the Firebase to get the data from the sensors.
+
 
 <!-- Technologies -->
 ### Technologies <a name="technologies"></a>
@@ -53,6 +55,7 @@ This project is an flutter app that can monitor air quality in real time. The ap
 
 <!-- Getting started -->
 ## Getting started <a name="getting-started"></a>
+[Back to top](#top)
 
 <!-- Prerequisites -->
 ### Prerequisites <a name="prerequisites"></a>
@@ -75,11 +78,13 @@ flutter pub get
 flutter run
 ``````
 
+
 <!-- License -->
 ## License <a name="license"></a>
+[Back to top](#top)
+
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 <!-- Contact -->
 ## Contact <a name="contact"></a>
-
-
+[Back to top](#top)
