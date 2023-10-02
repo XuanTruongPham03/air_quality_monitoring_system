@@ -1,16 +1,85 @@
-# air_quality_monitoring_system
+<!-- Top of view -->
+<a name="top"></a>
 
-A new Flutter project.
+# Air Quality Monitor App
 
-## Getting Started
+<!-- LOGO -->
+<div align="center">
+    <a href="https://github.com/XuanTruongPham03/air_quality_monitoring_system">
+        <img src="web/favicon.png" alt="Logo" width="200" height="200">
+    </a>
+    <p>
+    <h3> Air Quality Monitor App </h3>
+    <p>
+        <a href=""><img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="Version"></a>
+        <a href=""><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"></a>
+    </p>
+    <br>
+    <a href="">View Demo</a>
+    ·
+    <a href="https://github.com/XuanTruongPham03/air_quality_monitoring_system/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/XuanTruongPham03/air_quality_monitoring_system/issues">Request Feature</a>
+    <br>
+    <br>
+</div>
 
-This project is a starting point for a Flutter application.
+<!-- Table of contents -->
+## Table of contents
+- [About the project](#about)
+    - [Technologies](#technologies)
+    - [Features](#features)
+- [Getting started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+- [License](#license)
+- [Contact](#contact)
 
-A few resources to get you started if this is your first Flutter project:
+<!-- About the project -->
+## About the project <a name="about"></a>
+<!-- Short description about this project -->
+This project is an flutter app that can monitor air quality in real time. The app can connect to the STM32 board via Bluetooth to get the data from the sensors. The app can also connect to the ESP32 board via WiFi to get the data from the sensors. The app can also connect to the Firebase to get the data from the sensors.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<!-- Technologies -->
+### Technologies <a name="technologies"></a>
+- [Flutter](https://flutter.dev/)
+- [Firebase](https://firebase.google.com/)
+- [STM32](https://www.st.com/en/evaluation-tools/nucleo-f401re.html)
+- [ESP32](https://www.espressif.com/en/products/socs/esp32)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<!-- Features -->
+### Features <a name="features"></a>
+
+
+<!-- Getting started -->
+## Getting started <a name="getting-started"></a>
+
+<!-- Prerequisites -->
+### Prerequisites <a name="prerequisites"></a>
+- [Flutter](https://flutter.dev/docs/get-started/install)
+- [Visual Code](https://code.visualstudio.com/download)
+
+<!-- Installation -->
+### Installation <a name="installation"></a>
+1. Clone the repo
+```shell
+git clone https://github.com/XuanTruongPham03/air_quality_monitoring_system.git
+``````
+
+2. Install Flutter packages
+```shell
+flutter pub get
+``````
+3. Run the app
+```shell
+flutter run
+``````
+
+<!-- License -->
+## License <a name="license"></a>
+Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
+
+<!-- Contact -->
+## Contact <a name="contact"></a>
+
+
